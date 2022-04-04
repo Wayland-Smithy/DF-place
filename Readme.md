@@ -1,6 +1,8 @@
 # How to Install
 ## 1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) extension for your browser. (chrome linked)
 ## 2. Get the userscript [from here](https://wayland-smithy.github.io/DF-place/DFplace.user.js).
+# How it Works
+## When enabled the overlay shows small pixels in the center of the real ones. This means if you see a dot that pixel is wrong and needs to be changed to the color of the dot.
 
 ### Credit to r/placeDE for the bulk of the code and r/AprilKnights for the rest plus translating.
 ---
