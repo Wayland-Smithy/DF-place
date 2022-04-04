@@ -1,0 +1,19 @@
+ignore_colors = [
+	[0, 0, 0, 0],
+	# [0, 0, 0, 255], # filter all black
+]
+
+version = 0
+
+[priorities]
+"0" = 0
+"1" = 1
+"2" = 5
+"3" = 10
+
+[[structure]]
+name = "fort"
+file = "images/fort.png"
+startx = 0
+starty = 464
+priority = 3
