@@ -10285,7 +10285,7 @@
                 {
                     "x": 26,
                     "y": 487,
-                    "color": 2,
+                    "color": 30,
                     "priority": 3
                 },
                 {
@@ -16651,25 +16651,25 @@
                 {
                     "x": 42,
                     "y": 508,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 42,
                     "y": 509,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 42,
                     "y": 510,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 42,
                     "y": 511,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
@@ -17047,25 +17047,25 @@
                 {
                     "x": 43,
                     "y": 509,
-                    "color": 27,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 43,
                     "y": 510,
-                    "color": 27,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 43,
                     "y": 511,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 43,
                     "y": 512,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
@@ -17437,7 +17437,7 @@
                 {
                     "x": 44,
                     "y": 509,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
@@ -17449,13 +17449,13 @@
                 {
                     "x": 44,
                     "y": 511,
-                    "color": 27,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 44,
                     "y": 512,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
@@ -17827,7 +17827,7 @@
                 {
                     "x": 45,
                     "y": 509,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
@@ -17839,19 +17839,19 @@
                 {
                     "x": 45,
                     "y": 511,
-                    "color": 27,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 45,
                     "y": 512,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 45,
                     "y": 513,
-                    "color": 27,
+                    "color": 1,
                     "priority": 3
                 },
                 {
@@ -18217,7 +18217,7 @@
                 {
                     "x": 46,
                     "y": 509,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
@@ -18229,25 +18229,25 @@
                 {
                     "x": 46,
                     "y": 511,
-                    "color": 27,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 46,
                     "y": 512,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 46,
                     "y": 513,
-                    "color": 27,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 46,
                     "y": 514,
-                    "color": 27,
+                    "color": 1,
                     "priority": 3
                 },
                 {
@@ -18607,7 +18607,7 @@
                 {
                     "x": 47,
                     "y": 509,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
@@ -18619,25 +18619,25 @@
                 {
                     "x": 47,
                     "y": 511,
-                    "color": 27,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 47,
                     "y": 512,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 47,
                     "y": 513,
-                    "color": 27,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 47,
                     "y": 514,
-                    "color": 27,
+                    "color": 1,
                     "priority": 3
                 },
                 {
@@ -18997,25 +18997,25 @@
                 {
                     "x": 48,
                     "y": 509,
-                    "color": 27,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 48,
                     "y": 510,
-                    "color": 27,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 48,
                     "y": 511,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 48,
                     "y": 512,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
@@ -19381,25 +19381,25 @@
                 {
                     "x": 49,
                     "y": 508,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 49,
                     "y": 509,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 49,
                     "y": 510,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
                     "x": 49,
                     "y": 511,
-                    "color": 2,
+                    "color": 1,
                     "priority": 3
                 },
                 {
