@@ -15,7 +15,7 @@ version = 0
 name = "Main Fort and neighbors"
 file = "images/main_fort.png"
 startx = 0
-starty = 430
+starty = 429
 priority = 3
 
 [[structure]]
