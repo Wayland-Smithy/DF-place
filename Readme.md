@@ -1,3 +1,7 @@
+## To install the browser script [click here](https://wayland-smithy.github.io/DF-place/DFplace.user.js).
+
+### Credit to r/placeDE for the bulk of the code and r/AprilKnights for the rest plus translating.
+---
 # Pixel store (wip)
 
 Place to coordinate which pixels to place
@@ -8,12 +12,12 @@ Current output:
 **1. Create a branch**
 
 
-**2. Upload image to images folder:** 
+**2. Upload image to images folder:**
 _example.png_ with transparent background and without any border.\
 The image must be in 1:1 pixel scale and only use the colours provided by reddit.
 
 
-**3. Add a new block to config.toml:** 
+**3. Add a new block to config.toml:**
 ```toml
 [[structure]]
 name = "example"
@@ -40,7 +44,7 @@ Now _pixel.json_ is used to generate _output.png_ as well as _overlay.png_.
 You can also use _overlay.png_ to check if the overlay is correct.
 
 
-**5. Commit and push your changes** 
+**5. Commit and push your changes**
 Relevant files are:
 
 _config.toml_, and _images\beispiel.png_
@@ -51,7 +55,7 @@ These files will conflict when multiple people are adding files at the same time
 GitHub-Actions will automatically build the output and overlay once your pull request
 has been accepted.
 
-**6. Create a pull request to main and have another dev review it** 
+**6. Create a pull request to main and have another dev review it**
 
 **7. Pray the actions work and cry if they don't**
 
