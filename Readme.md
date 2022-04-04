@@ -1,5 +1,5 @@
 # How to Install
-## 1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) extension for your browser. (chrome linked)
+## 1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) extension for your browser. (Chrome linked, will not work with FireFox unfortunately)
 ## 2. Get the userscript [from here](https://wayland-smithy.github.io/DF-place/DFplace.user.js).
 ---
 # How it Works

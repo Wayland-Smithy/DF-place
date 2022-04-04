@@ -12,8 +12,15 @@ version = 0
 "3" = 10
 
 [[structure]]
-name = "Main Fort and Allies"
+name = "Main Fort and neighbors"
 file = "images/fort_temple.png"
 startx = 0
 starty = 464
 priority = 3
+
+[[structure]]
+name = "r/autism"
+file = "images/autism.png"
+startx = 250
+starty = 1850
+priority = 2
