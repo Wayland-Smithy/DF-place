@@ -1,4 +1,6 @@
-## To install the browser script [click here](https://wayland-smithy.github.io/DF-place/DFplace.user.js).
+# How to Install
+## 1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) extension for your browser. (chrome linked)
+## 2. Get the userscript [from here](https://wayland-smithy.github.io/DF-place/DFplace.user.js).
 
 ### Credit to r/placeDE for the bulk of the code and r/AprilKnights for the rest plus translating.
 ---
